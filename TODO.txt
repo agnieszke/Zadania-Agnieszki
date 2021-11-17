@@ -1,0 +1,10 @@
+1. stwórz repozytorium kodu na którym będziesz trzymać te zadania
+2. stwórz funkcję fibonacii, która dla wejscia n (typ numeryczny) wygeneruje n liczb z ciągu fibonaciego jako wyjscie
+3. stwórz funkcję sortowania bombelkowego tablicy liczb (wejscie tablica liczb nieposortowana, wyjscie posortowana)
+4. stwórz prostą stronę z dwoma formularzami które posłużą za wejscia do powyższych funkcji
+4. dodaj mnie do repo żebym mógł odczytać to wszystko (moj nick odyzxc)
+ 
+==========================================================================================================
+JUTRO
+5. dodaj API z dwoma endpointami/routami /fibo i /bubblesort które przyjmują dane w formacie json, które zostaną skonsumowane przez Twoje funkcje na backendzie
+6. przerób stronę żeby wykorzystywała te enpointy zamiast funkcji
